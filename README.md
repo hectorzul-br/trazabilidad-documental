@@ -12,7 +12,7 @@ física de cada documento dependiendo de multiples bases.
 
 > Este repositorio contiene únicamente documentación del diseño y las
 > decisiones técnicas. El código y los datos son propiedad de la
-> institución y no se publican.
+> institución y no se publicaran.
 
 ---
 
