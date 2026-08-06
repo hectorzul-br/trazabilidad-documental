@@ -101,4 +101,6 @@ tiempos de proceso.
   incompletos y estados intermedios del flujo.
 
 
-  
+  ---
+
+*Los sistemas están en operación.*
